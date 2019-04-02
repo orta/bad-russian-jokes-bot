@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "bad-russian-jokes-slack-response",
+  "builds": [
+    {
+      "src": "*.js",
+      "use": "@now/node"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "bad-russian-jokes-bot",
+  "version": "1.0.0",
+  "description": "A simple Slackbot",
+  "main": "index.js",
+  "author": "Orta Therox",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "deploy": "now && now alias bad-russian-jokes"
+  },
+  "devDependencies": {
+    "prettier": "^1.16.4"
+  }
+}
